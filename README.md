@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VersusAI — Product Intelligence & Comparison Platform
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -100,3 +101,7 @@ python test_advanced_rag_quality.py
 ## 📄 License
 
 MIT License • Built for Cognizant (CTS) Hackathon.
+=======
+# cognizant-product-assistant
+Hybrid RAG and LLM-powered Product Comparison &amp; Recommendation Assistant for CTS Hackathon.
+>>>>>>> d43860167d55cdd87e3482ca697319baecf1ff32
